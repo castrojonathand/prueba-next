@@ -1,10 +1,10 @@
 "use client";
-import { Footer } from "@/components/Footer";
+import { Footer } from "../components/Footer";
 import Image from "next/image";
-import { Card } from "@/components/Card";
+import { Card } from "../components/Card";
 
-import bluecar from "@/assets/images/blue-car.jpg";
-import honda from "@/assets/images/honda-civic.png";
+import bluecar from "../assets/images/blue-car.jpg";
+import honda from "../assets/images/honda-civic.png";
 
 import { motion } from "framer-motion";
 
